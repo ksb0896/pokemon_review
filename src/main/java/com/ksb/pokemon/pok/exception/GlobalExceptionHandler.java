@@ -1,6 +1,6 @@
 package com.ksb.pokemon.pok.exception;
 
-import java.util.Date;
+// import java.util.Date;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

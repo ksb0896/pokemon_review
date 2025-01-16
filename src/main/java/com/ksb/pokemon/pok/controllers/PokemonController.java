@@ -1,7 +1,7 @@
 package com.ksb.pokemon.pok.controllers;
 
-import java.util.ArrayList;
-import java.util.List;
+// import java.util.ArrayList;
+// import java.util.List;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.ksb.pokemon.pok.dto.PokemonDto;
 import com.ksb.pokemon.pok.dto.PokemonResponse;
-import com.ksb.pokemon.pok.models.Pokemon;
+// import com.ksb.pokemon.pok.models.Pokemon;
 import com.ksb.pokemon.pok.service.PokemonService;
 
 @RestController
