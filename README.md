@@ -1,2 +1,2 @@
-# pokemon_review
-basic REST api demonstration using Spring boot framework
+# pokemon_review_app
+basic RESTapi creation using springboot
